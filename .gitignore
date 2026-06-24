@@ -18,3 +18,4 @@ website/.docusaurus/
 
 # Claude
 .claude/settings.local.json
+.claude/
